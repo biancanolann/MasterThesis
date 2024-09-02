@@ -4,7 +4,7 @@ Created on Fri Jun 21 16:30:56 2024
 
 @author: bianc
 
-Using only straightforward K-Means on numerical variables
+Creating the clusters using K-Prototype
 """
 # %% Setup 
 
